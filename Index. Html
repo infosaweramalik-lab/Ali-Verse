@@ -1,0 +1,19 @@
+<head>
+<title>AliVerse</title>
+</head>
+<body style="background:#111;color:white;text-align:center;font-family:Arial;">
+<h1>🎮 AliVerse</h1>
+<p>Welcome to AliVerse Gaming Website</p>
+
+<h2>Popular Games</h2>
+<ul style="list-style:none;">
+<li>Free Fire</li>
+<li>PUBG Mobile</li>
+<li>Minecraft</li>
+<li>GTA V</li>
+</ul>
+
+<p>Coming Soon...</p>
+</body>
+</html>
+HTM
