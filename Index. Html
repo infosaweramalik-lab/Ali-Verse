@@ -1,16 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ali-Verse</title>
 
-<p>Tips, tricks and news.</p>
+<style>
+body{
+margin:0;
+font-family:Arial,sans-serif;
+background:#111;
+color:white;
+text-align:center;
+}
+header{
+background:#00b894;
+padding:20px;
+font-size:30px;
+font-weight:bold;
+}
+.card{
+background:#222;
+margin:20px;
+padding:20px;
+border-radius:10px;
+}
+h2{
+color:#00ffcc;
+}
+footer{
+background:#000;
+padding:15px;
+margin-top:20px;
+}
+</style>
+</head>
+
+<body>
+
+<header>🎮 Ali-Verse</header>
+
+<div class="card">
+<h2>Welcome</h2>
+<p>Ali-Verse Gaming Website mein khush aamdeed!</p>
 </div>
 
 <div class="card">
-<h2>⛏️ Minecraft</h2>
-<p>Best mods and maps.</p>
+<h2>🔥 Free Fire</h2>
+<p>Latest tips, tricks aur news.</p>
+</div>
+
+<div class="card">
+<h2>⛏ Minecraft</h2>
+<p>Best mods aur maps.</p>
 </div>
 
 <div class="card">
 <h2>🚗 GTA V</h2>
-<p>Gameplay and missions.</p>
-</div>
+<p>Gameplay aur missions.</p>
 </div>
 
 <footer>
@@ -19,4 +66,3 @@
 
 </body>
 </html>
-HTML
