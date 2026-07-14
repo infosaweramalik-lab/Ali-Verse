@@ -1,18 +1,22 @@
-<head>
-<title>AliVerse</title>
-</head>
-<body style="background:#111;color:white;text-align:center;font-family:Arial;">
-<h1>🎮 AliVerse</h1>
-<p>Welcome to AliVerse Gaming Website</p>
 
-<h2>Popular Games</h2>
-<ul style="list-style:none;">
-<li>Free Fire</li>
-<li>PUBG Mobile</li>
-<li>Minecraft</li>
-<li>GTA V</li>
-</ul>
+<p>Tips, tricks and news.</p>
+</div>
 
-<p>Coming Soon...</p>
+<div class="card">
+<h2>⛏️ Minecraft</h2>
+<p>Best mods and maps.</p>
+</div>
+
+<div class="card">
+<h2>🚗 GTA V</h2>
+<p>Gameplay and missions.</p>
+</div>
+</div>
+
+<footer>
+© 2026 Ali-Verse. All Rights Reserved.
+</footer>
+
 </body>
 </html>
+HTML
