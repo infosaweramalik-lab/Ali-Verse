@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contact Us - Ali Ghallu</title>
+
+<style>
+body{
+    margin:0;
+    font-family:Arial,sans-serif;
+    background:#111;
+    color:white;
+}
+.container{
+    max-width:800px;
+    margin:40px auto;
+    background:#222;
+    padding:25px;
+    border-radius:10px;
+}
+h1{
+    color:#00ffcc;
+    text-align:center;
+}
+p{
+    font-size:18px;
+    line-height:1.8;
+}
+a{
+    color:#00ffcc;
+    text-decoration:none;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Contact Us</h1>
+
+<p><b>Website:</b> Ali Ghallu</p>
+
+<p><b>Owner:</b> Ali</p>
+
+<p><b>Email:</b> alighalluofficial@gmail.com</p>
+
+<p>If you have any questions, suggestions, or business inquiries, feel free to contact us by email. We will try to reply as soon as possible.</p>
+
+<p><a href="index.html">⬅ Back to Home</a></p>
+
+</div>
+
+</body>
+</html>
