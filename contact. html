@@ -35,7 +35,18 @@ a{
 </head>
 
 <body>
+<body>
 
+<nav style="background:#00b894;padding:15px;text-align:center;">
+<a href="index.html" style="color:white;margin:10px;">Home</a>
+<a href="about.html" style="color:white;margin:10px;">About Us</a>
+<a href="contact.html" style="color:white;margin:10px;">Contact Us</a>
+<a href="privacy.html" style="color:white;margin:10px;">Privacy Policy</a>
+<a href="terms.html" style="color:white;margin:10px;">Terms</a>
+<a href="disclaimer.html" style="color:white;margin:10px;">Disclaimer</a>
+</nav>
+
+<div class="container">
 <div class="container">
 
 <h1>Contact Us</h1>
